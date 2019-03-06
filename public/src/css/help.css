@@ -2,3 +2,7 @@
 .mdl-button {
   margin: 10px;
 }
+
+body {
+    -webkit-user-select: none;
+}
